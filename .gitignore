@@ -1,3 +1,4 @@
 .eggs
 vivarium_cellpack.egg-info/
 out/
+*/__pycache__/*
